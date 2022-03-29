@@ -7,6 +7,6 @@ class Dog extends Animal {
 
     @Override
     public String manageSelf() {
-        return "I am " + name + " and my favorite food is " + favoriteFood + "\nDJAAF";
+        return "I am " + name + " and my favorite food is " + favoriteFood + "\nMeat";
     }
 }
